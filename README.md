@@ -1,4 +1,4 @@
 # Seminar
-Racunalne Vjestine
-Tema: Usporedba Git i Mercurial sustava za upravljanje inačicama
-Clanovi: Marina Banov, Iva Ličina, Antonio Šešet
+<p>Racunalne Vjestine</p>
+<p>Tema: Usporedba Git i Mercurial sustava za upravljanje inačicama</p>
+<p>Clanovi: Marina Banov, Iva Ličina, Antonio Šešet </p>
